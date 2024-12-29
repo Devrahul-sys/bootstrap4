@@ -1,0 +1,13 @@
+.carousel-item{
+    height: 500px !important ;
+}
+.carousel-item{
+    img {
+        height: 100%;
+        object-fit:cover ;
+    }
+}
+
+.custom-control {
+    margin-top: 15%;
+}
